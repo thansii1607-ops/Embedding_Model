@@ -1,15 +1,15 @@
-# 🧠 Sentence Embedding & Semantic Similarity
+# Sentence Embedding & Semantic Similarity
 
 This project demonstrates how to convert sentences into numerical **embeddings** and measure the **semantic similarity** between sentences using Python.
 
-## 📌 Project Description
+##  Project Description
 
 Sentence embeddings represent the meaning of sentences as numerical vectors.
 This project uses the **Sentence Transformers** library to generate embeddings and **Cosine Similarity** to compare the meaning of different sentences.
 
 The program identifies sentences that have a similarity score greater than **0.5**.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Sentence Transformers
@@ -17,7 +17,7 @@ The program identifies sentences that have a similarity score greater than **0.5
 * `all-MiniLM-L6-v2`
 * Cosine Similarity
 
-## ⚙️ How It Works
+## How It Works
 
 ```text
 Input Sentences
@@ -31,7 +31,7 @@ Calculate Cosine Similarity
 Display Similar Sentences
 ```
 
-## 📚 Example Sentences
+## Example Sentences
 
 The project uses sentences related to:
 
@@ -43,7 +43,7 @@ The project uses sentences related to:
 * Python
 * Weather
 
-## 🔧 Installation
+## Installation
 
 Install the required libraries using:
 
@@ -56,7 +56,7 @@ Install the required libraries using:
 
 pip install sentence-transformers scikit-learn
 
-## 📊 Output
+## Output
 
 The program displays:
 
@@ -79,13 +79,13 @@ Sentence 2: I enjoy reading novels.
 Similarity: 0.xxxx
 ```
 
-## 🧮 Cosine Similarity
+## Cosine Similarity
 
 Cosine similarity measures how similar two vectors are based on the angle between them.
 
 A score closer to **1** indicates higher similarity, while a score closer to **0** indicates lower similarity.
 
-## 🎯 Applications
+## Applications
 
 Sentence embeddings and semantic similarity are useful in:
 
@@ -97,7 +97,7 @@ Sentence embeddings and semantic similarity are useful in:
 * Document similarity
 * Natural Language Processing (NLP)
 
-## 👩‍💻 Author
+## Author
 
 **Thansila Begam F**
 
