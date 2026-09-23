@@ -50,16 +50,11 @@ Install the required libraries using:
 ```bash
 pip install sentence-transformers scikit-learn
 ```
+Installation
 
-## ▶️ How to Run
+Install the required libraries using:
 
-Open the project folder in VS Code and run:
-
-```bash
-python embedding.py
-```
-
-> Replace `embedding.py` with your actual Python file name if it is different.
+pip install sentence-transformers scikit-learn
 
 ## 📊 Output
 
